@@ -5,7 +5,7 @@ Includes material (code + description) that I turned into notebooks, in connecti
 In particular:
 
 <ul>
-<li><code>Interpolation_temperatures_ndia.ipynb</code> (geospatial statistics) is a simplified solution, part of project 3.2 in the project textbook.</li>  
+<li><code>Interpolation_temperatures_india.ipynb</code> (geospatial statistics) is a simplified solution, part of project 3.2 in the project textbook.</li>  
 <li><code>GAN_diabetes.ipynb</code> (generative adversarial network, diabetes dataset) is part of project 5.2 in the project textbook.</li>  
 <li><code>sd_vendors</code> (GAN vendor comparison, evaluation metric, holdout method) is part of project 5.1 in the project textbook.</li>  
 <li><code>NoGAN.py</code> (very fast better than GAN synthesizer for tabular data, without neural networks) is part of project 2.1 in the project textbook.</li> 
