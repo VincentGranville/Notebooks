@@ -10,7 +10,7 @@ In particular:
 <li><code>sd_vendors</code> (GAN vendor comparison, evaluation metric, holdout method) is part of project 5.1 in the project textbook.</li>  
 <li><code>NoGAN.py</code> (very fast better than GAN synthesizer for tabular data, without neural networks) is part of project 2.1 in the project textbook.</li> 
 <li><code>Copula_insurance_byGroup.ipynb</code> and <code>Copula_insurance_nogroup.ipynb</code> (insurance dataset, tabular data generation with copulas) are related to project 5.2.  </li>
-<li><code>DeepResampling.ipynb</code> is a different version of NoGAN. The full name of the method is Hierarchical Deep Resampling (no neural network involved) or NoGAN2. Also versy fast and better than GAN.</li>
+<li><code>DeepResampling.ipynb</code> is a different version of NoGAN. The full name of the method is Hierarchical Deep Resampling (no neural network involved) or NoGAN2. Also very fast and better than GAN.</li>
 </ul>
 
 The project textbook is offered to participants in the certification programs. For details about the cost (starting at $44) and how to enroll, see <a href="https://mltechniques.com/machine-learning-professional-certifications/">here</a>.
